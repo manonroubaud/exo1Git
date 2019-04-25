@@ -10,6 +10,10 @@ body {
     justify-content: center;
 }
 
+h2 {
+    text-decoration: underline;
+}
+
 ul {
     list-style: none;
  }
