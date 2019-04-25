@@ -11,3 +11,11 @@ img {
     display: flex;
     flex-direction: row;
 }
+
+li {
+    color: blue;
+}
+
+h1 {
+    color: blueviolet;
+}
