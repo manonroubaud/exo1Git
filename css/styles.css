@@ -1,3 +1,8 @@
 body {
-    background: aquamarine;
+    background: #FF9B75;
+    color:rgb(255, 255, 255);
+}
+
+ul {
+    list-style: none;
 }
