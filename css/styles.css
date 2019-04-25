@@ -11,3 +11,7 @@ img {
     display: flex;
     flex-direction: row;
 }
+
+h1 {
+    color: pink;
+}
