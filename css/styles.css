@@ -3,7 +3,7 @@ body {
     color:rgb(255, 255, 255);
 }
 
-ul {
+ul .galerie {
     list-style: none;
     display: flex;
     flex-direction: row;
